@@ -47,7 +47,6 @@ require (
 	github.com/pelletier/go-toml v1.1.0 // indirect
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v0.9.3-0.20190127221311-3c4408c8b829
-	github.com/russellhaering/gosaml2 v0.3.1
 	github.com/russellhaering/goxmldsig v1.1.0
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/spf13/afero v1.1.0 // indirect
@@ -62,10 +61,9 @@ require (
 	github.com/throttled/throttled/v2 v2.7.1
 	github.com/urfave/cli/v2 v2.3.0
 	go.opencensus.io v0.20.2 // indirect
-	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
-	golang.org/x/net v0.0.0-20201021035429-f5854403a974 // indirect
+	golang.org/x/crypto v0.14.0
+	golang.org/x/net v0.17.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20190402181905-9f3314589c9a // indirect
-	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9 // indirect
 	google.golang.org/api v0.3.2 // indirect
 	google.golang.org/grpc v1.19.0
 	gopkg.in/guregu/null.v3 v3.4.0
